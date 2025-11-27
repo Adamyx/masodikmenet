@@ -1,0 +1,42 @@
+tr.matek-row, tr.matematika-row { 
+    background-color: #1e3a5c; 
+    color: #cce6ff; 
+}
+
+tr.irodalom-row { 
+    background-color: #6d1b1b; 
+    color: #ffeaea; 
+}
+
+tr.tortenelem-row {
+     background-color: #665c1e; 
+     color: #fff9cc; 
+}
+
+.table-responsive { 
+    overflow-x: auto; 
+}
+.table td, .table th { 
+    vertical-align: middle; 
+}
+
+#quiz { 
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15); 
+    border-radius: 1rem; 
+}
+
+#kovigomb {
+     width: 100%; max-width: 350px;
+      margin: 0 auto 1rem auto; 
+      display: block; 
+}
+
+#eredmeny { 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    text-align: center; 
+}
+
+.kerdes, #valasz label {
+     font-size: 1.1rem; 
+}
